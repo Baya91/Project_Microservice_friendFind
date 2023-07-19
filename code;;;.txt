@@ -1,0 +1,1 @@
+friendFinder : spring web, Rest Repositories ,MySQL Driver , Spring Data JPA
